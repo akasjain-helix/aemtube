@@ -1,2 +1,5 @@
 mountpoints:
   /: https://adobe.sharepoint.com/:f:/r/sites/aemtube/Shared%20Documents/content
+
+folders:
+  /article/*/: /article/
