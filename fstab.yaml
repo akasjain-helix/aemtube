@@ -3,3 +3,4 @@ mountpoints:
 
 folders:
   /article/: /article/
+  /topic/: /topic/
